@@ -1,0 +1,71 @@
+Gene	Category
+ADNP	HC-SFARI
+AHCTF1	Candidate Autism Risk Gene
+ASH1L	HC-SFARI
+ATAD2	Other
+ATRX	HC-SFARI
+BAZ1A	Candidate Autism Risk Gene
+BAZ1B	Candidate Autism Risk Gene
+BPTF	Candidate Autism Risk Gene
+BRWD1	Candidate Autism Risk Gene
+CBX5	Other
+CDC5L	Candidate Autism Risk Gene
+CHD2	HC-SFARI
+CHD7	HC-SFARI
+CHD8	HC-SFARI
+CREBBP	HC-SFARI
+EEA1	Other
+EP300	HC-SFARI
+FOXO3	Other
+GLIS3	Other
+GTF2I	SFARI
+HDAC9	Candidate Autism Risk Gene
+HIF1A	Candidate Autism Risk Gene
+HIVEP1	Other
+HMGA2	Other
+ING3	Other
+JMJD1C	SFARI
+JUN	Other
+KDM3B	HC-SFARI
+KDM5A	SFARI
+KDM5B	HC-SFARI
+KMT2A	HC-SFARI
+KMT2C	HC-SFARI
+KMT2E	HC-SFARI
+LIN28B	Other
+MGA	Candidate Autism Risk Gene
+NSD1	HC-SFARI
+PBRM1	Candidate Autism Risk Gene
+PHF14	SFARI
+PHF20L1	Candidate Autism Risk Gene
+PHF3	HC-SFARI
+PHF6	Candidate Autism Risk Gene
+POU2F1	Candidate Autism Risk Gene
+PRDM2	Other
+REST	Candidate Autism Risk Gene
+RFX3	HC-SFARI
+RFX7	SFARI
+RREB1	Other
+SETBP1	HC-SFARI
+SETD2	HC-SFARI
+SETD5	HC-SFARI
+SMARCA5	Candidate Autism Risk Gene
+SPEN	SFARI
+TEAD1	Candidate Autism Risk Gene
+TET1	Candidate Autism Risk Gene
+TET2	SFARI
+TMF1	Other
+TRIM24	Candidate Autism Risk Gene
+VEZF1	HC-SFARI
+ZBTB38	Other
+ZEB2	Other
+ZFHX4	Other
+ZMYND11	SFARI
+ZNF148	Other
+ZNF292	HC-SFARI
+ZNF326	Other
+ZNF462	HC-SFARI
+ZNF518A	Other
+ZNF532	SFARI
+ZNF608	Candidate Autism Risk Gene
+ZNF644	Other
