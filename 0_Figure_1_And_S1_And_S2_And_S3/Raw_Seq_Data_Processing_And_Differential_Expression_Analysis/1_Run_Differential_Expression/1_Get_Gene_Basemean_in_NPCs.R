@@ -1,3 +1,0 @@
-library(tidyverse)
-df <- read.table("/n/groups/walsh/indData/Maya/Finalized_Convergence_In_ASD/Cell_Lines/raw_data/process_perturbation_data_all_perturbations/differential_expression_analysis/DEG_Results/OriginalResultsBeforeManualAdjustment/NTC-1_vs_NTC_2_3_withDedup.txt", header = TRUE) %>% dplyr::select(baseMean)
-write.table(df, "/n/groups/walsh/indData/Maya/Finalized_Convergence_In_ASD/Cell_Lines/raw_data/process_perturbation_data_all_perturbations/differential_expression_analysis/baseMeanInNTCs.csv")
